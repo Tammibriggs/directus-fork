@@ -3,5 +3,5 @@
 	"compilerOptions": {
 		"outDir": "dist"
 	},
-	"include": ["src"]
+	"include": ["src", "extensions/directus-extension-endpoint-algolia"]
 }
